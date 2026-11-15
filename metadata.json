@@ -1,0 +1,6 @@
+{
+  "name": "KarsaAsesmen SMP (Fase D)",
+  "description": "Studio penyusun soal Asesmen Sumatif Kurikulum Merdeka jenjang SMP (Fase D) berbasis AKM & HOTS lengkap dengan stimulus kontekstual, kisi-kisi, kunci jawaban, dan rubrik penskoran.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
