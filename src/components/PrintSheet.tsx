@@ -16,10 +16,13 @@ export const PrintSheet: React.FC<PrintSheetProps> = ({ params, questions }) => 
       <div className="border-b-2 border-black pb-3 mb-5">
         <div className="text-center space-y-0.5">
           <div className="text-sm font-bold uppercase tracking-wide">
-            {params.namaSekolah || 'SMP NEGERI NUSANTARA'}
+            {params.namaSekolah || 'MKPS SMP KABUPATEN GARUT'}
           </div>
           <div className="text-base font-bold uppercase">
             NASKAH ASESMEN SUMATIF — KURIKULUM MERDEKA
+          </div>
+          <div className="text-[10px] font-semibold tracking-wider uppercase text-slate-700">
+            KarsaAsesmen · MKPS Garut
           </div>
         </div>
         <div className="mt-4 grid grid-cols-2 gap-x-8 gap-y-1 text-xs">

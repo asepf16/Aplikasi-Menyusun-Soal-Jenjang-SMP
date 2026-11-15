@@ -33,7 +33,7 @@ export const Header: React.FC<HeaderProps> = ({
           }}
           className="font-display text-xl font-bold tracking-tight text-[#0F294A] whitespace-nowrap shrink-0 focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-[#0F294A] rounded"
         >
-          KarsaAsesmen
+          KarsaAsesmen · MKPS Garut
         </a>
 
         <nav

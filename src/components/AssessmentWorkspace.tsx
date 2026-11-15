@@ -325,7 +325,7 @@ export const AssessmentWorkspace: React.FC<AssessmentWorkspaceProps> = ({
             <div className="xl:col-span-7 p-8 sm:p-10 flex flex-col justify-between gap-6">
               <div className="space-y-4">
                 <p className="text-xs font-semibold text-sky-800">
-                  Kurikulum Merdeka · Jenjang SMP (Fase D)
+                  Kurikulum Merdeka · Jenjang SMP (Fase D) · MKPS Garut
                 </p>
                 <h1 className="font-display text-3xl sm:text-[34px] font-bold leading-[1.18] text-[#0F294A] text-balance">
                   Studio Penyusun Asesmen Sumatif Berbasis AKM & HOTS

@@ -48,7 +48,7 @@ const DEFAULT_PARAMS: AssessmentParams = {
   distribusiSedang: 50,
   distribusiSukar: 20,
   konteksFokus: 'Campuran Proporsional',
-  namaSekolah: 'SMP Negeri 1 Nusantara',
+  namaSekolah: 'MKPS SMP Kabupaten Garut',
   alokasiWaktu: '60 Menit',
 };
 
@@ -356,7 +356,7 @@ export default function App() {
       <footer className="no-print border-t border-slate-200 bg-white mt-auto">
         <div className="max-w-[1440px] mx-auto px-6 py-5 flex flex-wrap items-center justify-between gap-4 text-xs text-slate-500">
           <span>
-            KarsaAsesmen — Perangkat Penyusun Asesmen Sumatif SMP Kurikulum Merdeka (Fase D)
+            KarsaAsesmen · MKPS Garut — Perangkat Penyusun Asesmen Sumatif SMP Kurikulum Merdeka (Fase D)
           </span>
           <span>
             Format AKM · HOTS (C4–C6) · Kisi-Kisi & Rubrik Penskoran
